@@ -21,10 +21,10 @@
 		"async.series": "0.5.2",
 		"casperjs": "1.1.4",
 		"chalk": "2.4.2",
-		"cheerio": "1.0.0-rc.2",
+		"cheerio": "1.0.0",
 		"hapi": "18.1.0",
-		"hapi-and-healthy": "7.0.4",
-		"lodash": "4.17.11",
+		"hapi-and-healthy": "7.0.5",
+		"lodash": "4.17.23",
 		"request": "2.88.0",
 		"request-to-curl": "0.1.1",
 		"rolling-file": "1.0.10"
